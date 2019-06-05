@@ -1,5 +1,5 @@
 # ---------------------
-# Coordinate Transformation function using WPS specification
+# Intersection function
 # ---------------------
 from osgeo import ogr
 
